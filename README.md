@@ -4,9 +4,12 @@ A repository with programs that demostrate various JavaScript Concepts.
 ## Steps to run
 1. Clone the repository
 2.Run 
+
 > npm install 
+
 from inside the cloned directory.
 3.Navigate to any directory and run
+
 > node file-name.js
 
 ## Learning the concept
