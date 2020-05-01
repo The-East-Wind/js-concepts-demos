@@ -1,0 +1,24 @@
+{
+  "name": "js-concepts-demos",
+  "version": "1.0.0",
+  "description": "A collection of demos for understanding javascript concepts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-East-Wind/js-concepts-demos.git"
+  },
+  "keywords": [
+    "demo",
+    "javascript",
+    "js",
+    "concepts"
+  ],
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "author": "The-East-Wind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-East-Wind/js-concepts-demos/issues"
+  },
+  "homepage": "https://github.com/The-East-Wind/js-concepts-demos#readme"
+}
